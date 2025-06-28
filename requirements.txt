@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python-headless
+opencv-python
+
+# Audio deterrent dependencies (optional)
+# For Windows text-to-speech
+pyttsx3
+
+# Note: On macOS, uses built-in 'say' command
+# On Linux, install: sudo apt-get install espeak espeak-data libespeak-dev
+# Or: sudo apt-get install festival festvox-kallpc16k
